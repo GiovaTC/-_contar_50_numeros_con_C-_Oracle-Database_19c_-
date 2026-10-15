@@ -2,6 +2,7 @@
 
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/40aa3b14-df86-4de3-aeee-edb5e9a18f61" />  
 
+<img width="2550" height="1079" alt="image" src="https://github.com/user-attachments/assets/7a529b1c-9b49-4507-8413-c4f490c56bea" />    
 ```
 
 Contar 50 números con C# y Oracle Database 19c:
